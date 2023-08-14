@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="اسم او رقم الهاتف"
+       ></EditText>
+    <EditText
+        android:id="@+id/msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="الرسالة"></EditText>
+    <Button
+        android:id="@+id/btsend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="أرسل"
+        app:icon="@android:drawable/ic_dialog_email"
+        
+
+/>
+
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947410140532",
+    "firebase_url": "https://mousa3idi-1301a.firebaseio.com",
+    "project_id": "mousa3idi-1301a",
+    "storage_bucket": "mousa3idi-1301a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947410140532:android:ac98c64f18593bf0604021",
+        "android_client_info": {
+          "package_name": "com.example.mousa3idi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947410140532-18lr4alkkle0thi9th6e34eij056e3ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3sHuV9q8TJEimk0vz7t2S32E3zfQ2LmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947410140532-18lr4alkkle0thi9th6e34eij056e3ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
